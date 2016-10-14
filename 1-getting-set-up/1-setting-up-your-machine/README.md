@@ -24,4 +24,6 @@ terminal - Go to 'Applications' -> 'Utilities' -> 'Terminal'
 
 ### For Windows
 
+[git-scm](https://git-scm.com/downloads)
 
+[Git For Windows](https://git-for-windows.github.io/)
