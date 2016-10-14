@@ -2,9 +2,9 @@
 
 Before you can start creating web applications, you will need a number of tools to support you in your efforts:
 
-- [ ] A text editor or IDE (Integrated Developer Environment) for writing your code.  Good text editors will help you write clean code by providing syntax highlighting and hints.
-- [ ] A command line terminal to manipulate your files and directories. (That is an understatement. The command line is very powerful and will be your best friend throughout your career)
-- [ ] A web browser. The Google Chrome browser is recommended.  Even though you can do web development with any browser, I will assume that you are using Chrome which will be important as we learn how to use the browser's development tools.
+- [ ] A text editor or IDE (Integrated Developer Environment) for writing your code.  Good text editors will help you write clean code by providing syntax highlighting and hints. Pick at least one from the list below.
+- [ ] A command line terminal to manipulate your files and directories. (That is an understatement. The command line is very powerful and will be your best friend throughout your career).  Pick at least one from the list below.
+- [ ] A web browser. The Google Chrome browser is recommended.  Even though you can do web development with any browser, I will assume that you are using Chrome which will be important as we learn how to use the browser's development tools.  Pick at least one from the list below.
 
 ## Text Editors
 
