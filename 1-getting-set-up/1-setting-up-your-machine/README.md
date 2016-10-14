@@ -8,11 +8,11 @@ Before you can start creating web applications, you will need a number of tools 
 
 ## Text Editors
 
-[WebStorm by JetBrains](https://www.jetbrains.com/webstorm/) - My personal preference but it does have a price
+- [WebStorm by JetBrains](https://www.jetbrains.com/webstorm/) - My personal preference but it does have a price
 
-[Sublime Text](http://www.sublimetext.com/) - A great editor and it's free
+- [Sublime Text](http://www.sublimetext.com/) - A great editor and it's free
 
-[ATOM](https://atom.io/) - I know people really like it, but I already have my favorite
+- [ATOM](https://atom.io/) - I know people really like it, but I already have my favorite
 
 \* This is not meant to be a comprehensive list of text editors.  These are just my personal top 3.
 
@@ -20,24 +20,24 @@ Before you can start creating web applications, you will need a number of tools 
 
 ### For Mac
 
-terminal - Go to 'Applications' -> 'Utilities' -> 'Terminal'
+- terminal - Go to 'Applications' -> 'Utilities' -> 'Terminal'
 
-[iTerm](http://iterm2.com/)
+- [iTerm](http://iterm2.com/)
 
 ### For Windows
 
-[git-scm](https://git-scm.com/downloads)
+- [git-scm](https://git-scm.com/downloads)
 
-[Git For Windows](https://git-for-windows.github.io/)
+- [Git For Windows](https://git-for-windows.github.io/)
 
 ## Browsers
 
 From what I have seen, serious software developers typically stick with Chrome or Firefox as their personal browser favorite, but in a lot of ways it is really up to personal preference.
 
-[Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+- [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 
-[Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
-Safari (Mac users only)
+- Safari (Mac users only)
 
-Edge (Windows users only)
+- Edge (Windows users only)
